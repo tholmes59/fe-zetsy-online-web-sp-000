@@ -18,3 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+img {
+  border: solid;
+}
