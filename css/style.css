@@ -19,6 +19,6 @@ body {
 
 /* Write all remaining styles here */
 
-img {
+.wrapper img {
   border: 1px solid black;
 }
