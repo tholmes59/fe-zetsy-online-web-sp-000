@@ -20,5 +20,5 @@ body {
 /* Write all remaining styles here */
 
 img {
-  border: solid;
+  border: 1px solid #ddd
 }
