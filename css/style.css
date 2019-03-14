@@ -19,6 +19,10 @@ body {
 
 /* Write all remaining styles here */
 
+div {
+  display: block;
+}
+
 #about img {
   border: 5px rgb(152,173,166) solid;
 }
