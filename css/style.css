@@ -1,6 +1,10 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
+h1 {
+    font-weight: normal;
+    font-family: 'Baskerville', serif;
+}
+
 
 /*////////// Global Styles //////////*/
 
@@ -18,3 +22,20 @@ body {
 }
 
 /* Write all remaining styles here */
+
+
+div {
+  display: block;
+}
+
+.wrapper img {
+  border: 5px rgb(152,173,166) solid;
+}
+
+footer {
+  text-align: right;
+}
+
+#press img:hover {
+  border: 5px rgb(0, 0, 0) solid;
+}
