@@ -1,6 +1,10 @@
 /*////////////// Fonts //////////////*/
 
-/* link the web font used for the level 1 heading here */
+h1 {
+    font-weight: normal;
+    font-family: 'Baskerville', serif;
+}
+
 
 /*////////// Global Styles //////////*/
 
@@ -20,11 +24,6 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
-  
-    font-weight: normal;
-    font-family: 'Baskerville', serif;
-}
 
 div {
   display: block;
